@@ -1,0 +1,6 @@
+{
+  "name": "AI Recruitment Email Manager",
+  "description": "AI-powered platform to sync recruitment emails, automatically classify candidate domains with Gemini, filter spam, view analytical trends, and auto-reply with professional acknowledgements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

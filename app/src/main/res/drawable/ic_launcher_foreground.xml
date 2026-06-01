@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Outer mail envelope base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M22,26h64c5.5,0 10,4.5 10,10v36c0,5.5 -4.5,10 -10,10h-64c-5.5,0 -10,-4.5 -10,-10v-36c0,-5.5 4.5,-10 10,-10z" />
+    
+    <!-- Inside letter or folder page popping out -->
+    <path
+        android:fillColor="#BBDEFB"
+        android:pathData="M32,18h44c2,0 4,2 4,4v8h-52v-8c0,-2 2,-4 4,-4z" />
+        
+    <!-- Mail flap outlines -->
+    <path
+        android:strokeColor="#1565C0"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M12,36l42,26l42,-26" />
+        
+    <path
+        android:strokeColor="#1565C0"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M12,72l32,-20" />
+
+    <path
+        android:strokeColor="#1565C0"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M96,72l-32,-20" />
+
+    <!-- AI magnifying glass search analyzing target candidate -->
+    <path
+        android:fillColor="#FFD54F"
+        android:pathData="M78,60M78,44c7.7,0 14,6.3 14,14s-6.3,14 -14,14s-14,-6.3 -14,-14s6.3,-14 14,-14z" />
+
+    <path
+        android:strokeColor="#0D47A1"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M88,68l11,11" />
+</vector>
